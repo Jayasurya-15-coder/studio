@@ -1,4 +1,6 @@
-# 🤖 Gemini Chatbot  
+# 💙 Saathi: Your Exam Wellness Companion  
+
+> A prototype built for the **Google GenAI Hackathon** using the **Gemini API**.  
 
 A simple yet powerful chatbot built using **Google Gemini API** and a **React + Node.js** stack.  
 This project was created as part of the **Google Gen AI Hackathon**.  
